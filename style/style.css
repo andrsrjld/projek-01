@@ -1,0 +1,23 @@
+h1  {
+    color: red;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.paragraf-1{
+    color: red;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.paragraf-2{
+    color: cyan;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 100px;
+}
+
+#id-test {
+    font-size: 200px;
+    text-align: center;
+}
